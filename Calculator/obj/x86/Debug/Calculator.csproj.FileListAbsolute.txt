@@ -1,0 +1,4 @@
+C:\Users\Peretz\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.exe
+C:\Users\Peretz\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Peretz\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\Peretz\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.pdb
