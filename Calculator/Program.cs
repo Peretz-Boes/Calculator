@@ -16,7 +16,7 @@ namespace Calculator
                 Console.WriteLine("Enter two numbers");
                 string firstInput = Console.ReadLine();
                 string secondInput = Console.ReadLine();
-                if (String.IsNullOrWhiteSpace(firstInput) || String.IsNullOrWhiteSpace(secondInput))
+                if (!String.IsNullOrWhiteSpace(firstInput) || !String.IsNullOrWhiteSpace(secondInput))
                 {
                     double firstNumber = inputConverter.ConvertInputToNumeric(firstInput);
                     double secondNumber = inputConverter.ConvertInputToNumeric(secondInput);
