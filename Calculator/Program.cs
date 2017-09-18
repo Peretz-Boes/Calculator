@@ -13,7 +13,7 @@ namespace Calculator
             {
                 InputConverter inputConverter = new InputConverter();
                 CalculatorEngine calculatorEngine = new CalculatorEngine();
-                Console.WriteLine("Enter two numbers");
+                Console.WriteLine("Enter two numbers followed by the operation you want to do(add, subtract, multiply or divide");
                 string firstInput = Console.ReadLine();
                 string secondInput = Console.ReadLine();
                 if (!String.IsNullOrWhiteSpace(firstInput) || !String.IsNullOrWhiteSpace(secondInput))
